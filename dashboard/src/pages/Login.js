@@ -20,7 +20,7 @@ function Login() {
                             <Link to="/register">
                                 <button type="button">Sign Up</button>
                             </Link>
-                            <button type="submit">Log Me In</button>
+                            <button type="submit">Log In</button>
                         </div>
                     </div>
                 </div>
